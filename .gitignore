@@ -1,0 +1,5 @@
+.nvimrc
+modules
+__pycache__
+venv
+yaars.gif
